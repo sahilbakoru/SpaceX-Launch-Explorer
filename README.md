@@ -1,4 +1,8 @@
 # SpaceX Launch Explorer
+| Launches        | Explore       |
+|---------------------------|-------------------------------|
+| ![Launches](https://github.com/user-attachments/assets/d4f3f046-6e9c-4a45-a0c5-1ca72b5ebe96)   | ![Explore](https://github.com/user-attachments/assets/1d20afcd-7eef-45b5-b618-ae5e53384747)        |
+
 
 ## Map Implementation
 
